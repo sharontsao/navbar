@@ -1,0 +1,30 @@
+
+body {
+  font-size: 14px;
+}
+/*** style for navbar ***/
+nav {
+  background-color: yellow;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+/*** style for section ***/
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+/*** text style for navbar ***/
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+/*** text style for section ***/
+h3 {
+  font-size: 1.3em;
+}
+/*** background color for div element ***/
+.element-color {
+  background-color: green;
+}
